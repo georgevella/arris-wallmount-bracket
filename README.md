@@ -1,2 +1,2 @@
 # arris-wallmount-bracket
-Bracket to wall mount Arris modem.
+Simple wall-mounting bracket for Arris modem TG-1652S (http://www.arris.com/products/touchstone-telephony-gateway-tg1652-ag/)
